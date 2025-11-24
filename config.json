@@ -1,8 +1,9 @@
 {
   "clientId": "1423662080778567721",
-  "token": "MTQyMzY2MjA4MDc3ODU2NzcyMQ.GgAj6a.LYmXKYx1z6oGnxn3I71r3kCG9GN452bkAsQZeg",
-  "mongoURI": "mongodb+srv://kieran:Bradways01@discordbot.giz8ttm.mongodb.net/?retryWrites=true&w=majority&appName=DiscordBot",
+  "token": "",
+  "mongoURI": "",
   "Thumbnail": "https://cdn.discordapp.com/attachments/1415346257781850112/1441842494286331954/Safguard_3D.png?ex=692343f6&is=6921f276&hm=e771f9eb4e9a16627a1168159325fc1ff5e6485086b556e9c9078e1d9b1465aa&",
   "TicketsThumbnail": "https://cdn.discordapp.com/attachments/1415346257781850112/1441842494286331954/Safguard_3D.png?ex=692343f6&is=6921f276&hm=e771f9eb4e9a16627a1168159325fc1ff5e6485086b556e9c9078e1d9b1465aa&",
   "transcriptBaseURL": "http://localhost:3001/transcripts/"
 }
+
